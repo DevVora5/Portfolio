@@ -4,9 +4,10 @@ Welcome to my GitHub repository that hosts the source code for my personal portf
 
 ## Table of Contents
 
-- [About](#welcome-section)
+- [About](#about)
 - [Certificates](#certificates)
-- [Pseudo Projects](#pseudo-projects)
+- [Achievements](#achievements)
+- [Projects](#projects)
 - [Contact](#contact)
 
 ## About
@@ -39,55 +40,38 @@ I have successfully completed various courses and certifications. Here are a few
    - Issuer: Coursera
    - [View Certificate](https://www.coursera.org/verify/LCPUGXTVXBY5)
 
-# Dev Vora's Portfolio Projects
+6. **NodeJS and ReactJS from OcuFox**
+   - [View Certificate](/Certificates/Certificate%20NodeJS%20and%20ReactJS.pdf)
 
-## Introduction
+7. **Introduction to MongoDB**
+   - Issuer: Coursera
+   - [View Certificate](https://www.coursera.org/verify/RE8JGSZZH5DE)
 
-Welcome to the projects section of Dev Vora's portfolio. This section showcases a selection of projects, including both personal projects and some random projects not created by Dev Vora. Feel free to explore and learn more about these projects.
+8. **ACM TBW - MySQL-DBMS Workshop**
+   - [View Certificate](/Certificates/ACM%20TBW%20Certificate%20of%20Participation.pdf)
+
+## Achievements
+
+I have achieved the following milestones:
+
+1. **Winner at ACM Semi Code-2021**
+   - [View Achievement](/Achievements/Dev%20Vora_ACM%20Semi%20Code.png)
+
+2. **Runner Up at Google Fresher Foo-Bar Challenge - 2021**
+   - [View Achievement](/Achievements/GDSC%20Fresher%20Foo-Bar%20challenge%20Certificate-1.png)
 
 ## Projects
 
-### 1. Tribute Page
-- **Link:** [Tribute Page](https://codepen.io/freeCodeCamp/full/zNqgVx)
-- **Description:** Explore a tribute page created as part of freeCodeCamp's testable projects. This project pays homage to a subject of significance.
+Explore a selection of my projects:
 
-![Tribute Page](https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute.jpg)
+1. **Identification Codes and Related Algorithms (2022)**
+   - [View Project](/Projects/Identification%20Codes%20and%20Related%20Algorithms.pdf)
 
-### 2. Random Quote Machine
-- **Link:** [Random Quote Machine](https://codepen.io/freeCodeCamp/full/qRZeGZ)
-- **Description:** Engage with a random quote machine that generates thought-provoking quotes on each click.
+2. **Hardware Aashram - E-commerce Website (2023)**
+   - [View Project](/Projects/Hardware%20Aashram%20Project%20Report.pdf)
 
-![Random Quote Machine](https://cdn.freecodecamp.org/testable-projects-fcc/images/random-quote-machine.png)
-
-### 3. JavaScript Calculator
-- **Link:** [JavaScript Calculator](https://codepen.io/freeCodeCamp/full/wgGVVX)
-- **Description:** Experience a simple JavaScript calculator built using front-end technologies.
-
-![JavaScript Calculator](https://cdn.freecodecamp.org/testable-projects-fcc/images/calc.png)
-
-### 4. Map Data Across the Globe
-- **Link:** [Map Data Across the Globe](https://codepen.io/freeCodeCamp/full/mVEJag)
-- **Description:** Discover a project that involves mapping data across the globe for visualization and analysis.
-
-![Map Data Across the Globe](https://cdn.freecodecamp.org/testable-projects-fcc/images/map.jpg)
-
-### 5. Wikipedia Viewer
-- **Link:** [Wikipedia Viewer](https://codepen.io/freeCodeCamp/full/wGqEga)
-- **Description:** Dive into a Wikipedia viewer that allows you to search and view Wikipedia articles seamlessly.
-
-![Wikipedia Viewer](https://cdn.freecodecamp.org/testable-projects-fcc/images/wiki.png)
-
-### 6. Tic Tac Toe Game
-- **Link:** [Tic Tac Toe Game](https://codepen.io/freeCodeCamp/full/KzXQgy)
-- **Description:** Play a classic game of Tic Tac Toe in this front-end project created using HTML, CSS, and JavaScript.
-
-![Tic Tac Toe Game](https://cdn.freecodecamp.org/testable-projects-fcc/images/tic-tac-toe.png)
-
-## Note
-
-These projects are not created by Dev Vora and are showcased here for reference purposes.
-
-Feel free to explore the links provided to view the live projects on CodePen.
+3. **Stock Matrix - Stock Market Simulation Website (2023)**
+   - [View Project](/Projects/Stock%20Matrix%20Project%20Report.pdf)
 
 ## Contact
 
